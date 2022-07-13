@@ -1,5 +1,5 @@
 
-let calculator = () => {
+const calculator = function {
 
 let primerNumero = parseInt(prompt('Introduzca el primer numero', '')),
     segundoNumero = parseInt(prompt('Introduzca el segundo numero', ''));
